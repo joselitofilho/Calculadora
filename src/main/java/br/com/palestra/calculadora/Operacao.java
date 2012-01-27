@@ -6,7 +6,7 @@ public class Operacao {
 		return a*b;
 	}
 	
-	public int limpar(){
+	public static int limpar(){
 		return 0;
 	}
 
